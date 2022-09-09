@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://santsurat.github.io/csb-28b1uj/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://santsurat.github.io/csb-28b1uj/static/js/main.e029687e.chunk.js",
-    "main.js.map": "https://santsurat.github.io/csb-28b1uj/static/js/main.e029687e.chunk.js.map",
+    "main.js": "https://santsurat.github.io/csb-28b1uj/static/js/main.2bbe305e.chunk.js",
+    "main.js.map": "https://santsurat.github.io/csb-28b1uj/static/js/main.2bbe305e.chunk.js.map",
     "runtime-main.js": "https://santsurat.github.io/csb-28b1uj/static/js/runtime-main.d9ab675f.js",
     "runtime-main.js.map": "https://santsurat.github.io/csb-28b1uj/static/js/runtime-main.d9ab675f.js.map",
     "static/js/2.ac845c30.chunk.js": "https://santsurat.github.io/csb-28b1uj/static/js/2.ac845c30.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d9ab675f.js",
     "static/js/2.ac845c30.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.e029687e.chunk.js"
+    "static/js/main.2bbe305e.chunk.js"
   ]
 }
